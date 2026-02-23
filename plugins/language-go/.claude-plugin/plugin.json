@@ -1,0 +1,5 @@
+{
+  "name": "language-go",
+  "description": "Language specific workflows for working with Go.",
+  "version": "1.0.0"
+}

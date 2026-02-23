@@ -9,6 +9,11 @@
   },
   "plugins": [
     {
+      "name": "language-go",
+      "source": "./plugins/language-go",
+      "description": "Language specific workflows for working with Go."
+    },
+    {
       "name": "notify-talkback",
       "source": "./plugins/notify-talkback",
       "description": "Adds hooks for verbal notifications throughout task lifecycle."
