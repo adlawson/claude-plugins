@@ -1,0 +1,11 @@
+{
+  "name": "adlawson-claude-plugins",
+  "owner": {
+    "name": "Andrew Lawson"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins for personal productivity.",
+    "version": "1.0.0"
+  },
+  "plugins": []
+}
